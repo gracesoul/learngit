@@ -1,4 +1,4 @@
 初识git 要好好学习git命令！
 现在开始学习第二节课啦，加油！
 study harder  day day up
-
+这是branch1的分支 重新写的内容
